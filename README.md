@@ -1,0 +1,4 @@
+site-hotel
+==========
+
+Site Hotel
